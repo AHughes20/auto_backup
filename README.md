@@ -4,7 +4,7 @@ Takes a path to a directory that the user would like to backup. Script will then
 
 ## Usage
 
-bash```
+```bash
 
 ./auto_bkup.sh
 
